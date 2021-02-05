@@ -1,0 +1,41 @@
+Name: Artix Linux
+Code Name: artix
+Logo: https://upload.wikimedia.org/wikipedia/en/4/4b/ArtixLogo.svg
+Release type: rolling release
+Version:
+    - 	2021-01
+Country: global
+Architecture:
+    - x86_64
+    - aarch64
+Languages: 
+    - en
+Homepage: http://example.org
+Desktop: 
+    - cinnamon
+    - lxde
+    - lxqt
+    - mate
+    - kde
+    - xfce
+Package manager: pacman
+Service manager:
+    - openrc
+    - runit
+    - s6
+Description: 
+    - Artix Linux is a fork (or continuation as an autonomous project) of the Arch-OpenRC and Manjaro-OpenRC projects.
+    - Artix Linux offers a lightweight, rolling-release operating system featuring the OpenRC init software.
+    - Several editions of Artix Linux are available, featuring either a plain command line or one of several desktop environments.
+
+Screenshots:
+    - https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Artix_MATE_edition.png/800px-Artix_MATE_edition.png
+    - https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Artix_Community_FF-Inkscape_2020-02.png/800px-Artix_Community_FF-Inkscape_2020-02.png
+    - https://upload.wikimedia.org/wikipedia/commons/8/8c/Artix_Community_GTK-Qt_2020-02.png
+Contact:
+    - mailman@artixlinux.org
+    - https://t.me/artixlinux
+Source code:
+    - https://gitea.artixlinux.org/artixlinux/packages
+Documentation:
+    - https://wiki.artixlinux.org/
