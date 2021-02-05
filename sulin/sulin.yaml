@@ -1,11 +1,26 @@
 Name: Sulin OS GNU/Linux
 Code Name: roolling-donkey / donkey
 Release type: rolling release
+Version:
+    - s19 (rolling release)
 Country: Turkey
-Languages: tr, en, en
+Architecture:
+    - x86_64
+Languages: 
+    - tr
+    - es
+    - en
 Homepage: https://sulinos.github.io
-Desktop: xfce, gnome, lxde, mate, kde, cinnamon, budgie, pantheon
-Package manager: inary, tekel
+Desktop: 
+    - xfce
+    - gnome
+    - lxde
+    - mate
+    - kde
+    - cinnamon
+    - budgie
+    - pantheon
+Package manager: inary and tekel
 Description: 
     - SulinOS is to create an rolling release operating system that does not use systemd. 
     - It uses two different kernels, Linux kernel and Libre kernel. 
