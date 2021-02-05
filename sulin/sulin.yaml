@@ -1,0 +1,32 @@
+Name: Sulin OS GNU/Linux
+Code Name: roolling-donkey / donkey
+Release type: rolling release
+Country: Turkey
+Languages: tr, en, en
+Homepage: https://sulinos.github.io
+Desktop: xfce, gnome, lxde, mate, kde, cinnamon, budgie, pantheon
+Package manager: inary, tekel
+Description: 
+    - SulinOS is to create an rolling release operating system that does not use systemd. 
+    - It uses two different kernels, Linux kernel and Libre kernel. 
+    - In order to continue in accordance with the gnu philosophy glibc used as libc library.
+    - SulinOS aims to create a strong substructure named indispensable which is a kind of minimal system. 
+    - It can be used on desktops, servers and embedded devices. 
+    - SulinOS uses openrc as service manager.
+    - Also SulinOS has force-elogind so you may compile systemd related packages without systemd.
+    - SulinOS has dummy-selinux software. You can run selinux dependent packages with dummy-selinux.
+    - SulinOS continue to develop with inspiration from the legacy Pardus2011 project in the past.
+    
+Screenshots:
+    - https://sulinos.github.io/screenshot/1.jpg
+    - https://sulinos.github.io/screenshot/2.jpg
+    - https://sulinos.github.io/screenshot/3.jpg
+    - https://sulinos.github.io/screenshot/4.jpg
+    
+Contact:
+    - https://t.me/SulinOS
+Source code:
+    - https://gitlab.com/sulinos
+Documentation:
+    - https://sulinos.github.io/sulin-wiki/
+    - https://sulinos.github.io/inary
