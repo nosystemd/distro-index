@@ -10,7 +10,7 @@ Architecture:
     - aarch64
 Languages: 
     - en
-Homepage: http://example.org
+Homepage: https://artixlinux.org
 Desktop: 
     - cinnamon
     - lxde
