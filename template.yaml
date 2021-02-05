@@ -1,0 +1,27 @@
+Name: OS Name
+Code Name: codename
+Release type: fixed or rolling release
+Version:
+    - 1.0 (lts)
+Country: global or country
+Architecture:
+    - x86_64
+Languages: 
+    - en
+Homepage: http://example.org
+Desktop: 
+    - none
+Package manager: apt-get
+Service manager:
+    - openrc
+Description: 
+    - edit me
+Screenshots:
+    - http://example.org/image.png
+Contact:
+    - info@example.org
+    - http://example.org/contact
+Source code:
+    - http://example.org/sources
+Documentation:
+    - http://example.org/documentation
