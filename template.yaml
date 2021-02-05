@@ -1,5 +1,6 @@
 Name: OS Name
 Code Name: codename
+Logo: http://example.org/logo.svg
 Release type: fixed or rolling release
 Version:
     - 1.0 (lts)
