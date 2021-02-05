@@ -21,6 +21,10 @@ Desktop:
     - budgie
     - pantheon
 Package manager: inary and tekel
+Service manager:
+    - openrc
+    - runit (experimental)
+    - scomd (deprecated)
 Description: 
     - SulinOS is to create an rolling release operating system that does not use systemd. 
     - It uses two different kernels, Linux kernel and Libre kernel. 
